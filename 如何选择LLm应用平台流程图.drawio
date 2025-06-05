@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="第 1 页" id="-uLlWd6yKM3ANd_jFv0U">
+    <mxGraphModel dx="1111" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9CRITU-WBbahvKCe7iZy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-1" target="9CRITU-WBbahvKCe7iZy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-1" value="开始：需要选择LLM应用平台&lt;span style=&quot;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-2" target="9CRITU-WBbahvKCe7iZy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275" y="315" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.672;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-2" target="9CRITU-WBbahvKCe7iZy-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="552.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="546" />
+              <mxPoint x="310" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9CRITU-WBbahvKCe7iZy-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="522.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-2" target="9CRITU-WBbahvKCe7iZy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-2" value="主要目的是什么？&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;br class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-container ng-star-inserted&quot;&gt;&lt;span style=&quot;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-long-sentence&quot;&gt;&lt;span style=&quot;text-decoration-color: #202124 !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-inner-content eusoft-eudic-chrome-extension-translate-inner-long-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-inner-html-content&quot;&gt;主要目的是什么&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="485" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-4" target="9CRITU-WBbahvKCe7iZy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9CRITU-WBbahvKCe7iZy-4" target="9CRITU-WBbahvKCe7iZy-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-4" value="对文档理解和&lt;div&gt;引用的要求？&lt;span style=&quot;display: none !important;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;br class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-container ng-star-inserted&quot;&gt;&lt;span style=&quot;&quot; class=&quot;eusoft-eudic-chrome-extension-translate-item eusoft-eudic-chrome-extension-long-sentence&quot;&gt;&lt;span style=&quot;text-decoration-color: rgb(32, 33, 36);&quot; class=&quot;eusoft-eudic-chrome-extension-translate-inner-content eusoft-eudic-chrome-extension-translate-inner-long-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-inner-html-content&quot;&gt;主要目的是什么&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-topbottom-space ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-6" value="Dify&lt;div&gt;全面的LLM应用开发平台&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-8" value="n8n&lt;div&gt;强大的继承与自动化能力&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-10" value="Coze&lt;div&gt;简单易懂，多平台发布&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-14" value="FastGPT" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-16" value="RAGFlow" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-22" value="一般知识库问答需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-23" value="需要深度文档理解和精确引用，&lt;div&gt;处理复杂文档&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-24" value="开发专业级、生产就绪的LLM应用。&lt;div&gt;需要完整开发和运维环境&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="468" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-25" value="自动化链接不同应用和服务，&lt;div&gt;打通数据流程&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="575" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-26" value="快速搭建聊天机器人/简单AI应用，&lt;div&gt;无需编程经验&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="700" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-27" value="构建基于自由知识的&lt;div&gt;智能问答系统&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-36" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="220" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-37" value="成本预算&lt;div&gt;开源自托管/云服务？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9CRITU-WBbahvKCe7iZy-36">
+          <mxGeometry x="50" y="132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-38" value="技术能力&lt;div&gt;团队技术储备如何？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9CRITU-WBbahvKCe7iZy-36">
+          <mxGeometry x="50" y="222" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-39" value="特定功能需求&lt;div&gt;如深度RAG/企业级集成？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9CRITU-WBbahvKCe7iZy-36">
+          <mxGeometry x="40" y="312" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-40" value="补充考虑因素" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9CRITU-WBbahvKCe7iZy-36">
+          <mxGeometry x="50" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="360" as="sourcePoint" />
+            <mxPoint x="837" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="723" y="469.5" as="sourcePoint" />
+            <mxPoint x="840" y="469.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="579.5" as="sourcePoint" />
+            <mxPoint x="837" y="579.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="723" y="270" as="sourcePoint" />
+            <mxPoint x="840" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9CRITU-WBbahvKCe7iZy-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="723" y="699" as="sourcePoint" />
+            <mxPoint x="840" y="699" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
